@@ -1,5 +1,5 @@
-# jquery-tabbed-slider-ui
-A tabbed slider UI built using jQuery
+# jQuery Tabbed Slider UI
+A tabbed slider UI built using jQuery. Quickly deploy and easily add more nav items and sections to meet your needs.
 
 # How To Use
 
